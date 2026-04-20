@@ -32,11 +32,14 @@ Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Av
 ## **Tools**
 
 **Tableau Public**
+
 **Excel** (data modeling, visualization, PivotTables)
 
-<img width="1000" height="500" alt="PivotTables" src="https://github.com/user-attachments/assets/e5009952-0935-4fc4-b34d-17895f86905f" />
+<img width="800" height="500" alt="PivotTables" src="https://github.com/user-attachments/assets/e5009952-0935-4fc4-b34d-17895f86905f" />
 
-<img width="1000" height="500" alt="Intr_Charts" src="https://github.com/user-attachments/assets/276798c0-968b-4ab2-9dcd-32fc9015a2a8" />
+
+
+<img width="800" height="500" alt="Intr_Charts" src="https://github.com/user-attachments/assets/276798c0-968b-4ab2-9dcd-32fc9015a2a8" />
 
 
 
