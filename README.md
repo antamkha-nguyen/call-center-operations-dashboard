@@ -35,11 +35,11 @@ Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Av
 
 
 **Pivot Tables with Slicers**
-<img width="900" height="300" alt="PivotTables" src="https://github.com/user-attachments/assets/e5009952-0935-4fc4-b34d-17895f86905f" />
+<img width="700" height="300" alt="PivotTables" src="https://github.com/user-attachments/assets/e5009952-0935-4fc4-b34d-17895f86905f" />
 
 
 **Interactive Charts in Excel**
-<img width="900" height="300" alt="Intr_Charts" src="https://github.com/user-attachments/assets/276798c0-968b-4ab2-9dcd-32fc9015a2a8" />
+<img width="700" height="300" alt="Intr_Charts" src="https://github.com/user-attachments/assets/276798c0-968b-4ab2-9dcd-32fc9015a2a8" />
 
 
 
