@@ -1,21 +1,16 @@
-# **Banking Call Center Operational Analytics Dashboard**
+# **Banking Call Center Operational Dashboard**
 
 An interactive Tableau dashboard transforming 300 simulated call records into operational insights for banking call center management.
 
-**[View Dashboard](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/OperationalAnalyticsDashboard/RepresentativePerformance)**
+**[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/OperationalAnalyticsDashboard/RepresentativePerformance)**
 
 ## **Dataset**
 - An Excel dataset (Department, Call Type, Duration, Escalation/Resolution flags, Satisfaction Score, CSR ID, Channel, Call Hour) 
-- Validated using pivot tables before import into Tableau, with dynamic slicers and charts
+- Validated using pivot tables with dynamic slicers and charts before import into Tableau for dashboard developments
 
 ## **KPIs**
 
 Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Average Call Duration.
-
-## **Dashboards**
-
-- **Dashboard 1** : Call Operations Summary
-- **Dashboard 2** : CSR and Call Insights
 
 ## **Performance Benchmarks**
 
@@ -28,7 +23,6 @@ Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Av
 - **Satisfaction Score** (1-5): 
   Excellent >= 4.3, Good 4.0-4.29, At Risk 3.5-3.99, Critical < 3.5.
 
-
 - **Average Call Duration**: 
   Efficient < 4 min, Standard 4-8 min, Extended > 8 min.
 
@@ -37,4 +31,17 @@ Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Av
   
 ## **Tools**
 
-**Excel** (data modeling) | **Tableau Public** (visualization)
+**Tableau Public**
+**Excel** (data modeling, visualization, PivotTables)
+
+<img width="1000" height="500" alt="PivotTables" src="https://github.com/user-attachments/assets/e5009952-0935-4fc4-b34d-17895f86905f" />
+
+<img width="1000" height="500" alt="Intr_Charts" src="https://github.com/user-attachments/assets/276798c0-968b-4ab2-9dcd-32fc9015a2a8" />
+
+
+
+
+
+
+
+
